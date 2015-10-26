@@ -1,8 +1,8 @@
 = Tech talks at Conferences & Meetups
 
 Golang from Scala developer’s perspective
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.Functional Vilnius, meetup #6 +
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Functional Vilnius, meetup #6 +
 October 21, 2015 / Vilnius, Lietuva +
 http://www.functionalvilnius.lt/posts/2015-10-03-6th-meetup-announcement.html
 
