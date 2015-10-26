@@ -1,37 +1,37 @@
 = Tech talks at Conferences & Meetups
 
 Golang from Scala developer’s perspective
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .Functional Vilnius, meetup #6 +
 October 21, 2015 / Vilnius, Lietuva +
 http://www.functionalvilnius.lt/posts/2015-10-03-6th-meetup-announcement.html
 
 Jump into Scala: lessons we learned
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .Specific Java Day — JVM technologies meetup +
 October 17, 2015 / Minsk, Belarus +
 https://www.facebook.com/events/1082289785116781
 
 Jump into Scala: lessons we learned
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .ScalaUA #9 Conference +
 October 11, 2015 / Lviv, Ukraine +
 http://scala-lang.org.ua/meetups/2015-09-22-ninth-meetup.html
 
 Some algorithms of streaming data processing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .International Conference: BIG DATA and Predictive Analytics. Optimizing Business and IT +
 June 16 — 19, 2015 / Minsk, Belarus +
 http://bigdataminsk.by/page_en.html
 
 Jump into Scala: lessons we learned
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .ScalaBy, meetup #15 +
 April 27, 2015 / Minsk, Belarus +
 https://www.facebook.com/events/403121043201024
 
 High load systems: tips and tricks
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .TeamsPark TechWeek in BSUIR +
 March 23 — 26, 2015 / Minsk, Belarus +
 http://fksis.bsuir.by/other-info/bulletin-board/stud-gov/2015-03-22+adv+teamspark+techweek
