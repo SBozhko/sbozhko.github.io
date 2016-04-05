@@ -2,6 +2,12 @@
 
 Golang from Scala developer’s perspective
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_Belarus Golang User Group, meetup #1_ +
+December 8, 2015 / Minsk, Belarus +
+https://events.dev.by/pervaya-belorusskaya-vstrecha-golang-razrabotchikov-belarus-golang-user-group
+
+Golang from Scala developer’s perspective
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 _Functional Vilnius, meetup #6_ +
 October 21, 2015 / Vilnius, Lietuva +
 http://www.functionalvilnius.lt/posts/2015-10-03-6th-meetup-announcement.html
